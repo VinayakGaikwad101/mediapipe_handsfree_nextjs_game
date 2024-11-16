@@ -9,6 +9,7 @@
     "noUnusedLocals": false,
     "noEmit": true,
     "esModuleInterop": true,
+    // "suppressImplicitAnyIndexErrors":true,
     "noUnusedParameters": false,
     "noImplicitReturns": false,
     "module": "esnext",
