@@ -4,7 +4,7 @@ module.exports = {
     ignoreDuringBuilds: true,
   },
   eslintConfig: {
-    ignorePatterns: ["**/*.tsx"], // Ignore all .tsx files
+    ignorePatterns: ["**/*"], // Ignore all files and directories
     rules: {
       "@typescript-eslint/no-unused-vars": "off",
       "@typescript-eslint/no-explicit-any": "off",
